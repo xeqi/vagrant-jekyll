@@ -1,4 +1,3 @@
 group { "puppet": ensure => present }
 
-include rails
-include firefox
+include jekyll
